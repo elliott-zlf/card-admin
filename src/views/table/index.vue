@@ -82,7 +82,7 @@ export default {
       if (resttime > 0) {
         timestamp = 600 - (time1 - time2) / 1000
         var minutes = Math.floor(timestamp / 60)
-        var seconds = Math.floor(timestamp % 60)
+        // var seconds = Math.floor(timestamp % 60)
         var str = minutes + '分钟'
         return str
       } else {

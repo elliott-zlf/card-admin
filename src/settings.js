@@ -1,6 +1,6 @@
 module.exports = {
 
-  title: '配音街管理后台',
+  title: '配音师管理后台',
 
   /**
    * @type {boolean} true | false
